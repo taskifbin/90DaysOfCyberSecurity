@@ -1,6 +1,9 @@
 # 90-Day Cybersecurity Study Plan
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <a href="https://trendshift.io/repositories/1948" target="_blank"><img src="https://trendshift.io/api/badge/repositories/1948" alt="farhanashrafdev%2F90DaysOfCyberSecurity | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
@@ -87,27 +90,32 @@ New to the plan? Read this first, then jump to [Day 1](#day-1-7-network).
 - **Prefer another language?** See [Translations](#translations).
 
 ## Day 1-7: Network+
+
 - Watch videos from Professor Messer's [N10-009 Playlist](https://youtube.com/playlist?list=PLG49S3nxzAnl_tQe3kvnmeMid0mjF8Le8&si=3rUsqmrdsNK3izh6)
 - Complete any related practice questions or exercises.
 
-## Day 8-14: Security+  
+## Day 8-14: Security+
 
-### Strongly Recommend Professor Messer's:  
-- Watch the videos from Professor Messer's [SY0-701 Playlist](https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)  
+### Strongly Recommend Professor Messer's:
 
-### Another Alternative You Can Use:  
-- Watch Pete Zerger's [SY0-701 Playlist](https://www.youtube.com/watch?v=1E7pI7PB4KI&list=PL7XJSuT7Dq_UDJgYoQGIW9viwM5hc4C7n)  
+- Watch the videos from Professor Messer's [SY0-701 Playlist](https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)
 
-### Additional Practice:  
-- Complete any related practice questions or exercises. 
+### Another Alternative You Can Use:
+
+- Watch Pete Zerger's [SY0-701 Playlist](https://www.youtube.com/watch?v=1E7pI7PB4KI&list=PL7XJSuT7Dq_UDJgYoQGIW9viwM5hc4C7n)
+
+### Additional Practice:
+
+- Complete any related practice questions or exercises.
 
 ## Day 15-28: Linux
+
 - Browse through the Linux Journey tutorials: https://linuxjourney.com/
 - Complete Linux Unhatched on Cisco NetAcad: https://www.netacad.com/courses/linux-unhatched
 - Complete all Linux Hands-on Labs on LabEx: https://labex.io/free-labs/linux
 
-
 ## Day 29-42: Python
+
 - Watch freeCodeCamp's [Learn Python - Full Course for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw) (free, ~4.5 hours)
 - Complete Codecademy's Learn Python Track (the free tier covers the basics; later lessons need a subscription): https://codecademy.com/learn/learn-python
 - Python.org: https://www.python.org/
@@ -118,26 +126,30 @@ New to the plan? Read this first, then jump to [Day 1](#day-1-7-network).
 - LabEx Learn Python by Labs: https://labex.io/free-labs/python
 
 ### Youtube Course:
+
 - https://www.youtube.com/watch?v=egg-GoT5iVk&ab_channel=TheCyberMentor
 
-
 ## Day 43-56: Traffic Analysis
+
 - Take the Wireshark University course: https://www.wireshark.org/#educationalContent
 - Follow the Wireshark Tutorial on guru99: https://guru99.com/wireshark-tutorial.html
 - Read through the TCPdump Tutorial on DanielMiessler: https://danielmiessler.com/study/tcpdump/
 - Read through the Suricata Quickstart guide: https://docs.suricata.io/en/latest/quickstart.html
 
 ### Youtube:
+
 - Wireshark Tutorial for Beginners series https://www.youtube.com/watch?v=NjvR4LmwcMU&list=PLBf0hzazHTGPgyxeEj_9LBHiqjtNEjsgt&pp=iAQB
 - Suricata Network IDS/IPS https://www.youtube.com/watch?v=S0-vsjhPDN0&pp=ygUhIFN1cmljYXRhIElEUy9JUFMgU3lzdGVtIFR1dG9yaWFs
 
 ## Day 57-63: Git
+
 - Complete Codecademy's Git for Beginners course: https://codecademy.com/learn/learn-git
 - Follow the Git Immersion tutorial: http://gitimmersion.com
 - Try Git: https://try.github.io
 - Use [Learn Git Branching](https://learngitbranching.js.org/) for an interactive Git CLI simulator.
 
 ## Day 64-70: ELK
+
 - Follow the Complete Guide to the ELK Stack on Logz.io: https://logz.io/learn/complete-guide-elk-stack/
 - Get started with the Elastic Stack using the official docs: https://www.elastic.co/docs/get-started
 
@@ -146,23 +158,26 @@ New to the plan? Read this first, then jump to [Day 1](#day-1-7-network).
 ## Any one of them works fine.
 
 ### GCP:
--  Explore the GCP Getting Started Resource : https://cloud.google.com/getting-started/
--  Google Cloud Platform Documentation: https://cloud.google.com/docs/
--  Google Cloud Platform Blog: https://cloud.google.com/blog/
--  Google Cloud Platform Community: https://cloud.google.com/community/
--   Try hands-on challenges with [Google Cloud Skills Boost](https://www.cloudskillsboost.google)
+
+- Explore the GCP Getting Started Resource : https://cloud.google.com/getting-started/
+- Google Cloud Platform Documentation: https://cloud.google.com/docs/
+- Google Cloud Platform Blog: https://cloud.google.com/blog/
+- Google Cloud Platform Community: https://cloud.google.com/community/
+- Try hands-on challenges with [Google Cloud Skills Boost](https://www.cloudskillsboost.google)
 
 ### AWS
+
 - Explore the AWS Getting Started Resource Center: https://aws.amazon.com/getting-started/
 - Browse through the AWS Tutorials: https://aws.amazon.com/tutorials/
 - Learn through gamified labs on [AWS Cloud Quest](https://aws.amazon.com/training/digital/aws-cloud-quest/)
 
+### Azure
 
-###  Azure
 - Go through Azure Fundamentals: https://learn.microsoft.com/en-us/training/azure/
 - Complete the [Microsoft Learn Azure labs](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals/) with sandbox environments
 
 ## Day 78-84: Review and Practice
+
 - Go back through Days 1-77 and review any weak areas.
 - Complete hands-on challenges on TryHackMe: https://tryhackme.com
 - Set up a home lab using VirtualBox or VMware to practice what you have learned.
@@ -172,11 +187,14 @@ New to the plan? Read this first, then jump to [Day 1](#day-1-7-network).
 
 - Try to hack the challenges on Hack the Box: https://hackthebox.com
 - Practice on vulnerable machines on Vulnhub: https://vulnhub.com
+
 ### Youtube:
+
 - Ethical Hacking Part 1: https://www.youtube.com/watch?v=3FNYvj2U0HM&ab_channel=TheCyberMentor
 - Ethical Hacking Part 2: https://www.youtube.com/watch?v=sH4JCwjybGs&ab_channel=TheCyberMentor
 
 ## Day 91-92: One Page Resume
+
 - Use the provided resume template: https://bowtiedcyber.substack.com/p/killer-cyber-resume-part-ii
 - Cybersecurity Resume Template: https://www.indeed.com/career-advice/resumes-cover-letters/cybersecurity-resume
 - Cybersecurity Resume from Resume-Now: [https://www.resume-now.com/templates/cyber-security-resume](https://www.resume-now.com/cv/templates/data-systems-administration/cyber-security-specialist)
@@ -184,20 +202,20 @@ New to the plan? Read this first, then jump to [Day 1](#day-1-7-network).
 - Save a copy of your finished resume as Markdown (`cv.md`) as well; you will reuse it with career-ops on Day 93. List the labs, CTF rooms and projects from Days 15-90 as hands-on experience.
 
 ## Day 93-95: Where and How to Apply
+
 - Search for jobs on Indeed: https://indeed.com
 - Look for opportunities on LinkedIn: https://linkedin.com
 - Explore entry-level cybersecurity roles and career pathways on CyberSeek: https://www.cyberseek.org/pathway.html
 
 ### Run your job search with career-ops
+
 [career-ops](https://github.com/career-ops-hq/career-ops) is a free, open-source job-search system that runs inside an AI coding CLI such as Claude Code, Codex, OpenCode, GitHub Copilot CLI or Antigravity CLI ([free tier](https://github.com/career-ops-hq/career-ops/blob/main/docs/FREE_TIER.md), no API key needed). Paste a job URL and it scores the posting against your `cv.md` (1-5), generates an ATS-friendly tailored PDF and tracks every application in one place. It never applies for you; you always review and submit.
 
 Before using any AI CLI, redact sensitive personal data in `cv.md` (for example address/phone) and review the tool/provider’s privacy and data-retention settings before pasting your resume content.
 
-1. **Set up (Day 93):** install [Node.js](https://nodejs.org), skim the [setup guide](https://github.com/career-ops-hq/career-ops/blob/main/docs/SETUP.md), then run `npx @santifer/career-ops init`. Good security habit: `npx` downloads and runs the latest release, so check the [release notes](https://github.com/career-ops-hq/career-ops/releases) before running it (pin a version with `@santifer/career-ops@<version>` if you want a reproducible install). Open your AI CLI in the new `career-ops` folder and follow the onboarding chat. Tell it your target roles (for example *SOC analyst, security analyst, junior penetration tester*) so the evaluations fit entry-level security jobs.
+1. **Set up (Day 93):** install [Node.js](https://nodejs.org), skim the [setup guide](https://github.com/career-ops-hq/career-ops/blob/main/docs/SETUP.md), then run `npx @santifer/career-ops init`. Good security habit: `npx` downloads and runs the latest release, so check the [release notes](https://github.com/career-ops-hq/career-ops/releases) before running it (pin a version with `@santifer/career-ops@<version>` if you want a reproducible install). Open your AI CLI in the new `career-ops` folder and follow the onboarding chat. Tell it your target roles (for example _SOC analyst, security analyst, junior penetration tester_) so the evaluations fit entry-level security jobs.
 2. **Evaluate (Day 94):** paste 10-20 postings you found on Indeed or LinkedIn. Only apply to roles that score 4.0/5 or higher; treat it as a filter, not a spray-and-pray tool.
 3. **Apply and prepare (Day 95):** generate tailored CVs for your shortlist, apply, and use the interview-prep mode to build your STAR stories before the first call.
-
-
 
 ## Translations
 
@@ -208,12 +226,14 @@ Before using any AI CLI, redact sensitive personal data in `cv.md` (for example 
 - [Portuguese / Portugues](translations/portuguese/README.md)
 - [Russian / Русский](translations/russian/README.md)
 - [Spanish / Espanol](translations/spanish/README.md)
+- [Bangla / বাংলা](translations/bangla/README.md)
 
 ## 🎉 Contributors
 
 Thank you for being a part of the 90DaysOfCyberSecurity community! We appreciate everyone who helps improve our content.
 
 ### Contribution Categories:
+
 - **Documentation**: Improve or add to the study material and guides.
 - **Tutorials & Guides**: Create or enhance tutorials explaining complex concepts.
 - **Suggested Resources**: Recommend useful tools, articles, books, or other resources.
@@ -225,8 +245,6 @@ Thank you for being a part of the 90DaysOfCyberSecurity community! We appreciate
 - **Mentoring**: Help others with study advice, tips, or hosting study sessions.
 
 Thank you to all contributors for your amazing work! 🎉
-
-
 
 ## Contributors ✨
 
@@ -261,4 +279,3 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-
